@@ -1,6 +1,6 @@
 <h1>Vulnerability Sending Sus</h1>
 
-Dork:
+[-] Dork:
 site:www1.tce.pr.gov.br cpf deputados/prefeitos ext:xls
 
 http://twitter.com/@MatheusTDashh
@@ -17,7 +17,7 @@ http://twitter.com/@MatheusTDashh
 <p>--proxy socks5://matheus@localhost:9050</p>
 <p>--proxy http://admin:1234@172.16.0.90:8080</p>
 
-<h3>Depêndencias:</h3>
+<h3>[-] Depêndencias:</h3>
 <p>#PHP Version         5.4.7</p>
 <p>#php5-curl           LIB</p>
 <p>#php5-cli            LIB</p>

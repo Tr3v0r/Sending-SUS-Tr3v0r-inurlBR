@@ -1,7 +1,6 @@
 <h1>Vulnerability Sending Sus</h1>
 
-<h1>Dork:</h1>
-site:www1.tce.pr.gov.br cpf deputados/prefeitos ext:xls
+<h1>Dork:</h1> site:www1.tce.pr.gov.br cpf deputados/prefeitos ext:xls
 
 <b><p>Pesquisa CPF único     --> php sus.php --cpf 13326724691 -s resultado.txt</p></b>
 <b><p>Pesquisa CPF randômico --> php sus.php --cpf --dandom -s resultado.php</p></b>

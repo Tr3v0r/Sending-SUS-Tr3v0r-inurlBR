@@ -19,4 +19,4 @@
 
 <h1>Contato:</h1>
 <p>http://twitter.com/@MatheusTDashh</p>
-<p><img width="650" height="400" src="http://i.imgur.com/fuNul5h.jpg"></p>
+<p><img width="750" height="500" src="http://i.imgur.com/fuNul5h.jpg"></p>

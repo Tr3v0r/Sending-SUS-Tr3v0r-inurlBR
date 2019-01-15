@@ -9,7 +9,7 @@
 
 <h1><p>Formato proxy:</h1></p>
 <b><p>--proxy localhost:8118</p></b>
-<b><p>--proxy socks5://matheus@localhost:9050</p></b>
+<b><p>--proxy socks5://cad@localhost:9050</p></b>
 <b><p>--proxy http://admin:1234@172.16.0.90:8080</p></b>
 
 <h1>Depêndencias:</h1>

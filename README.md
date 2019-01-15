@@ -1,4 +1,4 @@
-<h1>[-] Vulnerability Sending Sus</h1>
+<h1>Vulnerability Sending Sus</h1>
 
 <h1>[-] Dork:</h1>
 site:www1.tce.pr.gov.br cpf deputados/prefeitos ext:xls
